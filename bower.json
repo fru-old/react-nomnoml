@@ -1,0 +1,29 @@
+{
+  "name": "react-nomnoml",
+  "version": "0.0.0",
+  "description": "nomnoml",
+  "main": "dist/react-nomnoml.min.js",
+  "homepage": "https://github.com/fru/react-nomnoml",
+  "authors": [
+    "Florian Rüberg"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
